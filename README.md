@@ -1,5 +1,5 @@
 ## Contributors
-- Wenting
+- Wenting Wang
 - Yu-tao
 - Elmira
 - Alien
