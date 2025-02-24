@@ -1,2 +1,4 @@
-## contributior
+## Contributors
+- Wenting
 - Yu-tao
+- Elmira
